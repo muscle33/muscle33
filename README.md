@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muscle33
-- 👀 I’m interested: in bioinformatics and epidemiology 
+- 👀 I’m interested: bioinformatics and epidemiology 
 - 🌱 I’m currently learning: biopython and R for single cell sequencing 
 - 📫 How to reach me:
 email: pteelucksingh21@gmail.com 
